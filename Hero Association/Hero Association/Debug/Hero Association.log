@@ -1,0 +1,9 @@
+﻿  Main.cpp
+  Hero_Manager.cpp
+c:\users\joao-\documents\projectos pessoais\hero association\hero association\hero_manager.cpp(66): warning C4101: 'salary': unreferenced local variable
+c:\users\joao-\documents\projectos pessoais\hero association\hero association\hero_manager.cpp(66): warning C4101: 'wins': unreferenced local variable
+c:\users\joao-\documents\projectos pessoais\hero association\hero association\hero_manager.cpp(165): warning C4018: '<': signed/unsigned mismatch
+  Fighter.cpp
+  Generating Code...
+  Hero Association.vcxproj -> C:\Users\joao-\Documents\Projectos Pessoais\Hero Association\Debug\Hero Association.exe
+  Hero Association.vcxproj -> C:\Users\joao-\Documents\Projectos Pessoais\Hero Association\Debug\Hero Association.pdb (Full PDB)
